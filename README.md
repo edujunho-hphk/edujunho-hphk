@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Harry's GitHub stats](https://github-readme-stats.vercel.app/api?username=edujunho-hphk&count_private=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **edujunho-hphk/edujunho-hphk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
